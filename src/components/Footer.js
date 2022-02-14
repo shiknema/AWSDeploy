@@ -4,7 +4,7 @@ import './../style.css'
 const Footer = () => {
     return (
         <div className='footer'>
-            <h3> &copy; Shikha </h3>
+            <h3> &copy; Shikha Gupta </h3>
         </div>
     )
 }
